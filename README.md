@@ -1,1 +1,1 @@
-# local
+# learning exercises
